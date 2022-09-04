@@ -1,5 +1,6 @@
 # hexo-renderer-multi-next-markdown-it
 ![](	https://img.shields.io/github/license/zkz098/hexo-renderer-multi-markdown-it) ![](https://badgen.net/npm/v/hexo-renderer-multi-next-markdown-it)
+**由于一系列问题,本项目已迁移到[zkz098/hexo-renderer-multi-next-markdown-it](https://github.com/zkz098/hexo-renderer-multi-next-markdown-it)**
 ## hexo-renderer-multi-next-markdown-it做了什么工作?
 从这个长的离谱的标题就能看出来,这个项目基于`hexo-renderer-multi-markdown-it`(下文简称"它") \
 这个渲染器的用途也和它一样,而关键字则是**next**,截止目前为止,此分支(计划)实现了以下功能:
